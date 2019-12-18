@@ -19,6 +19,11 @@ public class tets6 {
         x = 3*x;
         System.out.println(x);
     }
+
+    public static void tripleValue1(double x){
+        x = 3*x;
+        System.out.println(x);
+    }
 }
 
 class Employee{
